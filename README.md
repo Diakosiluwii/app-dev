@@ -27,5 +27,3 @@ From Shondaland and creator Chris Van Dusen, the first season of Bridgerton foll
 | 6              | Swish                       |
 | 7              | Oceans Apart               |
 | 8              | After the Rain             |
-
-
